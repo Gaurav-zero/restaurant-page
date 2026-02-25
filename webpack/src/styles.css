@@ -1,0 +1,9 @@
+/* styles.css */
+body {
+  background-color: hotpink;
+}
+
+#content img{
+  width: 50%;
+  height: 300px;
+}
